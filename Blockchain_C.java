@@ -41,6 +41,8 @@
  */
 
 import java.io.FileWriter;
+import java.io.FileReader;
+import java.io.Reader;
 import java.io.IOException;
 import java.io.UnsupportedEncodingException;
 import java.security.MessageDigest;
